@@ -23,7 +23,7 @@ class IntroScreen extends StatelessWidget {
       [
         PageViewModel(
           title: buildIntroText(
-            'Conecte-se com a comunidade brasileira na Nova Zelândia',
+            'Conecte-se com a comunidade brasileira na Nova Zelândia.',
           ),
           mainImage: Lottie.asset('assets/images/lotties/intro_1.json'),
           pageColor: Colors.green.shade500,
